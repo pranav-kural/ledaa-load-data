@@ -2,6 +2,8 @@
 
 LEDAA project is about building a conversational AI assistant for [Fragment's Ledger API](https://fragment.dev/docs). Towards this purpose, the **LEDAA Load Data** project is mainly intended to handle the overall ingestion of data when new changes in the ground truth (i.e., documentation webpages) are observed. The project is part of the larger LEDAA project and is responsible for processing and storing document chunks in the knowledge base vector store.
 
+![ledaa-load-data](https://github.com/user-attachments/assets/029cd02e-62ee-4da7-8a4a-0fa0394665c3)
+
 ## Process Flow
 
 Below is the process flow for how ground truth data updates are handled and how the knowledge base is effectively updated.
