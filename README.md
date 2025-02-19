@@ -1,6 +1,8 @@
 # LEDAA Load Data
 
-LEDAA project is about building a conversational AI assistant for [Fragment's Ledger API](https://fragment.dev/docs). Towards this purpose, the **LEDAA Load Data** project is mainly intended to handle the overall ingestion of data when new changes in the ground truth (i.e., documentation webpages) are observed. The project is part of the larger LEDAA project and is responsible for processing and storing document chunks in the knowledge base vector store.
+LEDAA project is about building a conversational AI assistant for [FRAGMENT (documentation)](https://fragment.dev/docs). Towards this purpose, the **LEDAA Load Data** project is mainly intended to handle the overall ingestion of data when new changes in the ground truth (i.e., documentation webpages) are observed. The project is part of the larger LEDAA project and is responsible for processing and storing document chunks in the knowledge base vector store.
+
+To learn more check: [Building AI Assistant for FRAGMENT documentation](https://www.pkural.ca/blog/posts/fragment/)
 
 ![ledaa-load-data](https://github.com/user-attachments/assets/029cd02e-62ee-4da7-8a4a-0fa0394665c3)
 
